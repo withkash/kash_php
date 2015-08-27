@@ -2,9 +2,9 @@
 
 Include via Composer:
 ```js
-    "require": {
-        "kash/kash-php": "*"
-    }
+"require": {
+    "kash/kash-php": "*"
+}
 ```
 
 ## Documentation
@@ -12,8 +12,6 @@ Include via Composer:
 Documentation is available at [http://docs.withkash.com](http://docs.withkash.com).
 
 ## Tutorial
-
-Each function call returns a promise.
 
 ```php
 <?php
