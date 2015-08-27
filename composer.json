@@ -1,0 +1,14 @@
+{
+    "name": "kash/kash-php",
+    "description": "Kash API PHP Client",
+    "homepage": "https://withkash.com",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.3",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": { "Kash\\" : "lib/" }
+    }
+}
